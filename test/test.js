@@ -1,6 +1,6 @@
-var Triangle = require('ecma6/triangle.js');
-var Square = require('ecma6/square.js');
-var Rectangle = require('ecma6/rectangle.js');
+var Triangle = require('../ecma6/triangle.js');
+var Square = require('../ecma6/square.js');
+var Rectangle = require('../ecma6/rectangle.js');
 
 describe("Pruebas de Triángulo", function(){
   it("Se calcula correctamente el área", function(){
